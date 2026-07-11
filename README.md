@@ -75,6 +75,7 @@ Thanks for dropping by!
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/AJ1312/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AJ1312/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/AJ1312/LeetCode/tree/main/0202-happy-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +86,9 @@ Thanks for dropping by!
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/AJ1312/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AJ1312/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/AJ1312/LeetCode/tree/main/0202-happy-number/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/AJ1312/LeetCode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
