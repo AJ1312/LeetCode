@@ -106,4 +106,12 @@ Thanks for dropping by!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AJ1312/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/AJ1312/LeetCode/tree/main/0796-rotate-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/AJ1312/LeetCode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
