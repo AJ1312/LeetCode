@@ -81,6 +81,7 @@ Thanks for dropping by!
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/AJ1312/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AJ1312/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/AJ1312/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ Thanks for dropping by!
 | [0142-linked-list-cycle-ii](https://github.com/AJ1312/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/AJ1312/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AJ1312/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/AJ1312/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
