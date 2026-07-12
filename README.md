@@ -93,6 +93,7 @@ Thanks for dropping by!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/AJ1312/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/AJ1312/LeetCode/tree/main/0202-happy-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -114,4 +115,12 @@ Thanks for dropping by!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/AJ1312/LeetCode/tree/main/0796-rotate-string/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/AJ1312/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/AJ1312/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
