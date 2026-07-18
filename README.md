@@ -102,6 +102,7 @@ Thanks for dropping by!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/AJ1312/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AJ1312/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -122,6 +123,7 @@ Thanks for dropping by!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/AJ1312/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/AJ1312/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -140,4 +142,8 @@ Thanks for dropping by!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AJ1312/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/AJ1312/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
