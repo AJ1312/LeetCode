@@ -4,10 +4,7 @@ class Solution {
         int ans = nums[0];
         int minbe = nums[0];
         int n = nums.length;
-        if(n==1){
-            ans = Math.abs(nums[0]);
-            return ans;
-        }
+      
 
         for(int i=1;i<n;i++){
             int v1 = be + nums[i];
@@ -19,7 +16,7 @@ class Solution {
 
         }
 
-        return ans;
+        return Math.abs(ans);
 
         
     }
