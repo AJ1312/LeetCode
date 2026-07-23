@@ -105,6 +105,7 @@ Thanks for dropping by!
 | [0053-maximum-subarray](https://github.com/AJ1312/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/AJ1312/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AJ1312/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AJ1312/LeetCode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ Thanks for dropping by!
 | [0053-maximum-subarray](https://github.com/AJ1312/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/AJ1312/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/AJ1312/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AJ1312/LeetCode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
