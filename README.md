@@ -77,6 +77,7 @@ Thanks for dropping by!
 | [0142-linked-list-cycle-ii](https://github.com/AJ1312/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/AJ1312/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/AJ1312/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AJ1312/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@ Thanks for dropping by!
 | [0560-subarray-sum-equals-k](https://github.com/AJ1312/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/AJ1312/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/AJ1312/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AJ1312/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AJ1312/LeetCode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AJ1312/LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Binary Search
@@ -171,4 +173,5 @@ Thanks for dropping by!
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AJ1312/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/AJ1312/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AJ1312/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
