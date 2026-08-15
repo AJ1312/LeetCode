@@ -96,6 +96,7 @@ Thanks for dropping by!
 | [0234-palindrome-linked-list](https://github.com/AJ1312/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AJ1312/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AJ1312/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0986-interval-list-intersections](https://github.com/AJ1312/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ Thanks for dropping by!
 | [0724-find-pivot-index](https://github.com/AJ1312/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/AJ1312/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AJ1312/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0986-interval-list-intersections](https://github.com/AJ1312/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AJ1312/LeetCode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AJ1312/LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Binary Search
@@ -183,4 +185,8 @@ Thanks for dropping by!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/AJ1312/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/AJ1312/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
