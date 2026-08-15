@@ -107,6 +107,7 @@ Thanks for dropping by!
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/AJ1312/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/AJ1312/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/AJ1312/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/AJ1312/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AJ1312/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0525-contiguous-array](https://github.com/AJ1312/LeetCode/tree/main/0525-contiguous-array/) | Medium |
