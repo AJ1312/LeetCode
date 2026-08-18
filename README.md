@@ -76,6 +76,7 @@ Thanks for dropping by!
 | [0141-linked-list-cycle](https://github.com/AJ1312/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AJ1312/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/AJ1312/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/AJ1312/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0525-contiguous-array](https://github.com/AJ1312/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AJ1312/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AJ1312/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -102,6 +103,7 @@ Thanks for dropping by!
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/AJ1312/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/AJ1312/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/AJ1312/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AJ1312/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -110,6 +112,7 @@ Thanks for dropping by!
 | [0056-merge-intervals](https://github.com/AJ1312/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/AJ1312/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/AJ1312/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0268-missing-number](https://github.com/AJ1312/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AJ1312/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0525-contiguous-array](https://github.com/AJ1312/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AJ1312/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -122,10 +125,12 @@ Thanks for dropping by!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/AJ1312/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AJ1312/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/AJ1312/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AJ1312/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -185,6 +190,7 @@ Thanks for dropping by!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/AJ1312/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0268-missing-number](https://github.com/AJ1312/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Sweep Line
 | Problem Name | Difficulty |
 | ------- | ------- |
