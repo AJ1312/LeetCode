@@ -91,6 +91,7 @@ Thanks for dropping by!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/AJ1312/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AJ1312/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AJ1312/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/AJ1312/LeetCode/tree/main/0202-happy-number/) | Easy |
@@ -108,6 +109,7 @@ Thanks for dropping by!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/AJ1312/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0053-maximum-subarray](https://github.com/AJ1312/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/AJ1312/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/AJ1312/LeetCode/tree/main/0057-insert-interval/) | Medium |
@@ -212,4 +214,8 @@ Thanks for dropping by!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/AJ1312/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/AJ1312/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
