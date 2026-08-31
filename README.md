@@ -112,6 +112,7 @@ Thanks for dropping by!
 | [0056-merge-intervals](https://github.com/AJ1312/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/AJ1312/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/AJ1312/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0200-number-of-islands](https://github.com/AJ1312/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0268-missing-number](https://github.com/AJ1312/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AJ1312/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0525-contiguous-array](https://github.com/AJ1312/LeetCode/tree/main/0525-contiguous-array/) | Medium |
@@ -195,4 +196,20 @@ Thanks for dropping by!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/AJ1312/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/AJ1312/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/AJ1312/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/AJ1312/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/AJ1312/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
