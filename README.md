@@ -138,6 +138,7 @@ Thanks for dropping by!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/AJ1312/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0796-rotate-string](https://github.com/AJ1312/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AJ1312/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## String Matching
@@ -165,6 +166,7 @@ Thanks for dropping by!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/AJ1312/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AJ1312/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AJ1312/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Number Theory
@@ -225,4 +227,8 @@ Thanks for dropping by!
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/AJ1312/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/AJ1312/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/AJ1312/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
