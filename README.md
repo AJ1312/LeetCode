@@ -77,6 +77,7 @@ Thanks for dropping by!
 | [0142-linked-list-cycle-ii](https://github.com/AJ1312/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/AJ1312/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/AJ1312/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/AJ1312/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0525-contiguous-array](https://github.com/AJ1312/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AJ1312/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AJ1312/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -141,6 +142,7 @@ Thanks for dropping by!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AJ1312/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/AJ1312/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/AJ1312/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AJ1312/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## String Matching
@@ -185,6 +187,7 @@ Thanks for dropping by!
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AJ1312/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/AJ1312/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -252,4 +255,8 @@ Thanks for dropping by!
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/AJ1312/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/AJ1312/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AJ1312/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
