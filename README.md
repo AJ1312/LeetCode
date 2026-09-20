@@ -81,6 +81,7 @@ Thanks for dropping by!
 | [0525-contiguous-array](https://github.com/AJ1312/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AJ1312/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AJ1312/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/AJ1312/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +146,7 @@ Thanks for dropping by!
 | [0387-first-unique-character-in-a-string](https://github.com/AJ1312/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/AJ1312/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AJ1312/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/AJ1312/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,4 +261,5 @@ Thanks for dropping by!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AJ1312/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/AJ1312/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
