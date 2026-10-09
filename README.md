@@ -124,6 +124,7 @@ Thanks for dropping by!
 | [0503-next-greater-element-ii](https://github.com/AJ1312/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/AJ1312/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AJ1312/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0704-binary-search](https://github.com/AJ1312/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/AJ1312/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/AJ1312/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/AJ1312/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -136,6 +137,7 @@ Thanks for dropping by!
 | ------- | ------- |
 | [0268-missing-number](https://github.com/AJ1312/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AJ1312/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0704-binary-search](https://github.com/AJ1312/LeetCode/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
