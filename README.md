@@ -119,6 +119,7 @@ Thanks for dropping by!
 | [0056-merge-intervals](https://github.com/AJ1312/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/AJ1312/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/AJ1312/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0162-find-peak-element](https://github.com/AJ1312/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0200-number-of-islands](https://github.com/AJ1312/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0268-missing-number](https://github.com/AJ1312/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AJ1312/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -137,6 +138,7 @@ Thanks for dropping by!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/AJ1312/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0162-find-peak-element](https://github.com/AJ1312/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/AJ1312/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/AJ1312/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AJ1312/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
