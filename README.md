@@ -138,6 +138,7 @@ Thanks for dropping by!
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/AJ1312/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/AJ1312/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/AJ1312/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AJ1312/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/AJ1312/LeetCode/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
@@ -270,4 +271,8 @@ Thanks for dropping by!
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AJ1312/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/AJ1312/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/AJ1312/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
