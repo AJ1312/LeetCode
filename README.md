@@ -114,6 +114,7 @@ Thanks for dropping by!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AJ1312/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/AJ1312/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/AJ1312/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/AJ1312/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/AJ1312/LeetCode/tree/main/0056-merge-intervals/) | Medium |
@@ -137,6 +138,7 @@ Thanks for dropping by!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AJ1312/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/AJ1312/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/AJ1312/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/AJ1312/LeetCode/tree/main/0268-missing-number/) | Easy |
